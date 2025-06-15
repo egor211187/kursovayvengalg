@@ -1,1 +1,1 @@
-# kursovayvengalg
+# kursovayvengalg два файла, один с визуализацией, а другой просто алгоритм
